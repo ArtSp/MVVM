@@ -1,0 +1,10 @@
+
+"home.hello" = "Hello!";
+"home.button.reset" = "Reset";
+"home.button.about" = "About";
+"home.items" = "Items";
+"home.picker.language" = "Language";
+
+"onboarding.button.start" = "Start";
+"onboarding.description" = "This is a template app";
+"onboarding.navigation.title" = "MVVM app";

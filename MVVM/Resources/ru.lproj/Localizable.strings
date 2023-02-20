@@ -1,0 +1,10 @@
+
+"home.hello" = "Привет!";
+"home.button.reset" = "Сбросить";
+"home.button.about" = "О приложении";
+"home.items" = "Предметы";
+"home.picker.language" = "Язык";
+
+"onboarding.button.start" = "Начать";
+"onboarding.description" = "Это шаблонное приложение";
+"onboarding.navigation.title" = "MVVM приложение";
